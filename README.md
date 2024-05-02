@@ -1,2 +1,2 @@
 # about-me
-Website about my skills, abilities, and interests
+Website about my skills, abilities, and interests.
